@@ -17,7 +17,7 @@ const MESSAGE = process.env.MESSAGE ||  `
 ┃◈├•*SESSION GENERATED SUCCESSFULY* ✅
 ┃◈┃
 ┃◈├•*Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌟
-┃◈├•https://github.com/Tohidkhan6332/TOHID_MD
+┃◈├•https://github.com/majidi50/PRINCE-MD
 ┃◈┃
 ┃◈├•*Tᴇʟᴇɢʀᴀᴍ Gʀᴏᴜᴘ* 🌟
 ┃◈├•https://t.me/Tohid_Tech
@@ -29,15 +29,15 @@ const MESSAGE = process.env.MESSAGE ||  `
 ┃◈├•https://whatsapp.com/channel/0029VaGyP933bbVC7G0x0i2T
 ┃◈┃
 ┃◈┃*Yᴏᴜ-ᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟꜱ* 🌟 
-┃◈├•https://youtube.com/Tohidkhan_6332
+┃◈├•https://youtube.com/princetech_6332
 ┃◈┃
 ┃◈├•*ɢɪᴛʜᴜʙ* 🌟
-┃◈├•http://GitHub.com/Tohidkhan6332
+┃◈├•https://github.com/majidi50/PRINCE-MD
 ┃◈┃
 ┃◈├•*Wᴇʙsɪᴛᴇ* 🌟
 ┃◈├•https://tohid-khan-web.vercel.app/
 ┃◈┃
-┃◈├•*TOHID_MD--WHATTSAPP-BOT* 🥀
+┃◈├•*PRINCE_MD--WHATTSAPP-BOT* 🥀
 ┃◈╰──────────●●►
 ┃◈╭─────────────●●►
 ┃◈├ ╔═╦═╗───╔══╗╔╗╔╗╔╗
@@ -53,7 +53,7 @@ Procedure(Ensure you have Github Account and Billed
 Heroku Account First.)
 Don't Forget To Give Star⭐ To My Repo
 ╭────────────────────┈⊷
-├━━━〔 *TOHID_MD SESSION* 〕━━━┈⊷
+├━━━〔 *PRINCE_MD SESSION* 〕━━━┈⊷
 ╰────────────────────┈⊷
 `
 
