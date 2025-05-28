@@ -26,7 +26,7 @@ const MESSAGE = process.env.MESSAGE ||  `
 ┃◈├•https://chat.whatsapp.com/IqRWSp7pXx8DIMtSgDICGu
 ┃◈┃
 ┃◈├•*WʜᴀᴛsAᴘᴘ ᴄʜᴇɴɴᴀʟ* 🌟
-┃◈├•https://whatsapp.com/channel/0029VaGyP933bbVC7G0x0i2T
+┃◈├•https://whatsapp.com/channel/0029VbAqgXx6mYPK6IVaY71V/153
 ┃◈┃
 ┃◈┃*Yᴏᴜ-ᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟꜱ* 🌟 
 ┃◈├•https://youtube.com/princetech_6332
