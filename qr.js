@@ -19,7 +19,7 @@ const MESSAGE = process.env.MESSAGE ||  `
 ┃◈├•*Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌟
 ┃◈├•https://github.com/majidi50/PRINCE-MD
 ┃◈┃
-┃◈├•*Tᴇʟᴇɢʀᴀᴍ Gʀᴏᴜᴘ* 🌟
+┃◈├•*CONTACH WITH ME* 🌟https://wa.me/message/KLODWSNP6P5KI1
 ┃◈├•https://t.me/Tohid_Tech
 ┃◈┃
 ┃◈├•*WʜᴀᴛsAᴘᴘ Gʀᴏᴜᴘ* 🌟
@@ -35,7 +35,7 @@ const MESSAGE = process.env.MESSAGE ||  `
 ┃◈├•https://github.com/majidi50/PRINCE-MD
 ┃◈┃
 ┃◈├•*Wᴇʙsɪᴛᴇ* 🌟
-┃◈├•https://tohid-khan-web.vercel.app/
+┃◈├•https://prince-tech-web.vercel.app/
 ┃◈┃
 ┃◈├•*PRINCE_MD--WHATTSAPP-BOT* 🥀
 ┃◈╰──────────●●►
@@ -319,7 +319,7 @@ SESSION-ID ==> ${Scan_Id}
 
 
 
-    //// MADE WITH TOHID KHAN 
+    //// MADE WITH PRINCE TECH 
 
 
 
